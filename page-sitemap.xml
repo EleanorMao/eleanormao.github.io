@@ -21,13 +21,6 @@
     </url>
     
     <url>
-        <loc>http://eleanormao.github.io/demo/</loc>
-        <lastmod>2019-06-11T15:56:33.462Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>http://eleanormao.github.io/demo/request-concurrency.html</loc>
         <lastmod>2019-06-11T15:56:33.462Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -35,7 +28,7 @@
     </url>
     
     <url>
-        <loc>http://eleanormao.github.io/demo/ssh-mac-linux.html</loc>
+        <loc>http://eleanormao.github.io/demo/</loc>
         <lastmod>2019-06-11T15:56:33.462Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -43,6 +36,13 @@
     
     <url>
         <loc>http://eleanormao.github.io/demo/settimeout-learning.html</loc>
+        <lastmod>2019-06-11T15:56:33.462Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://eleanormao.github.io/demo/ssh-mac-linux.html</loc>
         <lastmod>2019-06-11T15:56:33.462Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>

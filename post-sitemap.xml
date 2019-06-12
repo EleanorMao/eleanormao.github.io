@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>http://eleanormao.github.io/2018/12/17/rich-text-editor/</loc>
+        <lastmod>2019-06-12T12:24:40.544Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://eleanormao.github.io/2019/03/29/pixel/</loc>
         <lastmod>2019-06-11T17:30:10.578Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -15,7 +23,7 @@
     </url>
 
     <url>
-        <loc>http://eleanormao.github.io/2017/09/11/webpack-optimize/</loc>
+        <loc>http://eleanormao.github.io/2017/07/26/web-cache-explore/</loc>
         <lastmod>2019-06-11T15:56:33.460Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -23,7 +31,7 @@
     </url>
 
     <url>
-        <loc>http://eleanormao.github.io/2017/07/26/web-cache-explore/</loc>
+        <loc>http://eleanormao.github.io/2017/09/11/webpack-optimize/</loc>
         <lastmod>2019-06-11T15:56:33.460Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -111,7 +119,7 @@
     </url>
 
     <url>
-        <loc>http://eleanormao.github.io/2017/05/15/hello-world/</loc>
+        <loc>http://eleanormao.github.io/2017/05/23/dom/</loc>
         <lastmod>2019-06-11T15:56:33.437Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -119,7 +127,7 @@
     </url>
 
     <url>
-        <loc>http://eleanormao.github.io/2017/05/23/dom/</loc>
+        <loc>http://eleanormao.github.io/2017/05/15/hello-world/</loc>
         <lastmod>2019-06-11T15:56:33.437Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -175,7 +183,7 @@
     </url>
 
     <url>
-        <loc>http://eleanormao.github.io/2017/06/21/2017-06-21/</loc>
+        <loc>http://eleanormao.github.io/2017/07/21/2017-07-21/</loc>
         <lastmod>2019-06-11T15:56:33.426Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -183,7 +191,7 @@
     </url>
 
     <url>
-        <loc>http://eleanormao.github.io/2017/07/21/2017-07-21/</loc>
+        <loc>http://eleanormao.github.io/2017/06/21/2017-06-21/</loc>
         <lastmod>2019-06-11T15:56:33.426Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
