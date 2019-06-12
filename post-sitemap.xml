@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>http://eleanormao.github.io/2019/06/01/weapp-20190601/</loc>
+        <lastmod>2019-06-12T13:50:34.491Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://eleanormao.github.io/2018/12/17/rich-text-editor/</loc>
         <lastmod>2019-06-12T12:24:40.544Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -183,7 +191,7 @@
     </url>
 
     <url>
-        <loc>http://eleanormao.github.io/2017/07/21/2017-07-21/</loc>
+        <loc>http://eleanormao.github.io/2017/06/21/2017-06-21/</loc>
         <lastmod>2019-06-11T15:56:33.426Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -191,7 +199,7 @@
     </url>
 
     <url>
-        <loc>http://eleanormao.github.io/2017/06/21/2017-06-21/</loc>
+        <loc>http://eleanormao.github.io/2017/07/21/2017-07-21/</loc>
         <lastmod>2019-06-11T15:56:33.426Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
